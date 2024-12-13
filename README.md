@@ -3,7 +3,7 @@ My own ML project on weather forecast prediction data using clasisfication model
  Performance analysis of classification models on weather forecast data to provide prediction of rain and no rain.
  At the end of the project, i have concluded the ensemble learners have best accuracy on the data.
 
- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<SravaniReddy05>/MLproject>/blob/<main>/<MLproject.ipynb>.ipynb)
+ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SravaniReddy05/MLproject/blob/main/MLproject.ipynb.ipynb)
 
 
  ## Running on Google Colab
